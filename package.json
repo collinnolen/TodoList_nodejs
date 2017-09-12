@@ -1,0 +1,25 @@
+{
+  "name": "Simple_Todo",
+  "version": "1.0.0",
+  "description": "A simple list site created for the purpose of learning.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Todo",
+    "List",
+    "Collin",
+    "Nolen"
+  ],
+  "author": "Collin Nolen",
+  "license": "ISC"
+}
